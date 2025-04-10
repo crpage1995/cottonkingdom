@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Kingdom",
+  "version": "1.0",
+  "description": "Annotates misleading historical narratives (e.g., on trumpwhitehouse.archives.gov) with accurate context, sources, and images.",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["https://trumpwhitehouse.archives.gov/*"],
+  "action": {
+    "default_title": "Enable Annotations"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://trumpwhitehouse.archives.gov/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["corrections.json", "assets/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
