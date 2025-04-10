@@ -1,8 +1,56 @@
 [
   {
-    "pattern": "His ownership of 100 slaves would lure southern votes.",
-    "correction": "Taylor’s slaveholding was key to his political appeal in the South — not incidental.",
-    "source": "Frederick Law Olmsted, The Cotton Kingdom, 1861",
-    "image": "assets/Zachary Taylor Slavery.png"
+    "pattern": "But Taylor did not defend slavery or southern sectionalism; 40 years in the Army made him a strong nationalist.",
+    "correction": "Taylor owned over 130 enslaved people on the Fashion Plantation. These people designed, operated, and inhabited the Fashion Plantation. The 'masterpiece' simply would not have existed without them.",
+    "source": "Olmsted, *The Cotton Kingdom*, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Reconstructed Plan Fashion Plantation"
+  },
+  {
+    "pattern": "his father purchased 26 enslaved people to work the plantation",
+    "correction": "Taylor’s family’s wealth, and his inheritance of enslaved men like Charles and Tom, shaped his rise in military and political ranks.",
+    "source": "Seaboard States, Olmsted, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Zachary-Taylor-presidentialportrait.jpg"
+  },
+  {
+    "pattern": "A political cartoon of the time depicted the ridiculousness of Taylor’s attempt to balance southern rights to slavery and the Wilmot Proviso",
+    "correction": "Taylor’s public image as 'Old Rough and Ready' obscured his deep ties to slavery and expansionist politics. Cartoons of the time mocked his attempts to appease both sides.",
+    "source": "Frederick Law Olmsted, *The Cotton Kingdom*, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/rough-and-ready_.jpg"
+  },
+  {
+    "pattern": "After Taylor's death in 1850, his widow, Margaret Taylor, moved many of his personal papers and artifacts to Fashion",
+    "correction": "The burning of Fashion Plantation in 1862 erased most personal records of Taylor’s plantation operations. Only fragments remain.",
+    "source": "Cotton Kingdom, Olmsted, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Fashion Plantation from River.jpg"
+  },
+  {
+    "pattern": "So do we really know about Taylor’s ambitions",
+    "correction": "The destruction of Taylor’s archives leaves us with uncertainty. His ambitions may have been more entangled in personal economic interests than history suggests.",
+    "source": "Cotton Kingdom, Olmsted, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Context Map Fashion Plantation.jpg"
+  },
+  {
+    "pattern": "Over 130 enslaved people designed, operated, and inhabited the Fashion Plantation",
+    "correction": "Every part of the plantation’s construction, production, and daily function depended on enslaved labor. The mansion’s very existence is the product of Black labor.",
+    "source": "Cotton Kingdom, Olmsted, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Reconstructed Plan Fashion Plantation"
+  },
+  {
+    "pattern": "Enslaved people landscaped the mansion’s prominent garden and were vital in the success of growing sugarcane",
+    "correction": "The region’s soil was poor for sugarcane — success was made possible by exhaustive labor and human expertise under brutal conditions.",
+    "source": "Cotton Kingdom, Olmsted, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Sugar Plantation 01.jpg"
+  },
+  {
+    "pattern": "The plantation has been redeveloped into the “Fashion Plantation Estates”",
+    "correction": "Fashion Plantation now sits in Louisiana’s Cancer Alley — one of the most toxic regions in the U.S. Its redevelopment whitewashes a painful and ongoing environmental and racial history.",
+    "source": "EPA Region 6 Toxicity Maps; Olmsted, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Cancer Alley Map.png"
+  },
+  {
+    "pattern": "the labor of enslaved people was critical for sugarcane production in the South",
+    "correction": "The Southern sugar economy was completely dependent on enslaved people for labor, with harsh conditions that resulted in immense suffering and exploitation.",
+    "source": "Olmsted, *The Cotton Kingdom*, 1861. Available at: [Olmsted's The Cotton Kingdom](https://github.com/crpage1995/kingdom/blob/main/vertopal.com_inu-32000009243272-1744299002.markdown)",
+    "image": "assets/Sugar Plantation 02.jpg"
   }
 ]
